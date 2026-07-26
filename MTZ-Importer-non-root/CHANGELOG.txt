@@ -1,9 +1,0 @@
-MTZ Tool Non-Root 1.0.0
-
-- Package: nonroot.dtinh.mtzimporter
-- Đồng bộ giao diện và cách viết với bản Root.
-- Chuyển nút Website lên thanh đầu ứng dụng.
-- Rút gọn thẻ bảo vệ và thông báo trạng thái.
-- Giữ nhập MTZ/phông chữ bằng Shizuku.
-- Giữ công tắc bảo vệ, Tự khởi động và Không giới hạn pin.
-- Hỗ trợ Android 11 trở lên.
