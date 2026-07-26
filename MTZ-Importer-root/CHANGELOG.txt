@@ -1,7 +1,0 @@
-MTZ Tool 1.0.0
-
-- Package phát hành: root.dtinh.mtzimporter
-- Rút gọn giao diện và thông báo trạng thái.
-- Thêm nút Website mở trang chính thức.
-- Giữ nhập MTZ, TTF, OTF, TTC và quản lý chủ đề đã nhập.
-- Hỗ trợ Android 11 trở lên.
